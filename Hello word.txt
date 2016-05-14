@@ -6,3 +6,4 @@ print ("Are yo all right?");
 print ("It's OK.");
 print ("Hello my dear friend.");
 print ("Glad to see you.");
+print ("Goodbye");
