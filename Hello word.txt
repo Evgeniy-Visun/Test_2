@@ -1,6 +1,6 @@
-print ("Hello word");
-print ("Hello Evgeniy");
+print ("Hello word.");
+print ("Hello Evgeniy.");
 print ("Are you using git?");
-print ("Yes, I do");
+print ("Yes, I do.");
 print ("Are yo all right?");
-print ("It's OK");
+print ("It's OK.");
